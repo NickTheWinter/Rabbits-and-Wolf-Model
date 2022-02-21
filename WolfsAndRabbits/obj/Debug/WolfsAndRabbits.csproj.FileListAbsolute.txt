@@ -1,0 +1,8 @@
+C:\Users\Nikolai\source\repos\WolfsAndRabbits\WolfsAndRabbits\bin\Debug\WolfsAndRabbits.exe.config
+C:\Users\Nikolai\source\repos\WolfsAndRabbits\WolfsAndRabbits\bin\Debug\WolfsAndRabbits.exe
+C:\Users\Nikolai\source\repos\WolfsAndRabbits\WolfsAndRabbits\bin\Debug\WolfsAndRabbits.pdb
+C:\Users\Nikolai\source\repos\WolfsAndRabbits\WolfsAndRabbits\obj\Debug\WolfsAndRabbits.csproj.AssemblyReference.cache
+C:\Users\Nikolai\source\repos\WolfsAndRabbits\WolfsAndRabbits\obj\Debug\WolfsAndRabbits.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikolai\source\repos\WolfsAndRabbits\WolfsAndRabbits\obj\Debug\WolfsAndRabbits.csproj.CoreCompileInputs.cache
+C:\Users\Nikolai\source\repos\WolfsAndRabbits\WolfsAndRabbits\obj\Debug\WolfsAndRabbits.exe
+C:\Users\Nikolai\source\repos\WolfsAndRabbits\WolfsAndRabbits\obj\Debug\WolfsAndRabbits.pdb
